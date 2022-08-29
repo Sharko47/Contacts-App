@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+const black = Colors.black;
+const white = Colors.white;
+const darkGrey = Color.fromARGB(255, 89, 89, 89);
+const appBarColor = Color(0xff0A4E80);
+const primaryButtonGradientLeft = Color(0xFF3C94FC);
+const primaryButtonGradientRight = Color(0xFF23D2DD);
+const statusContainerGradientLeft = Color(0xff38BBB3);
+const statusContainerGradientRight = Color(0xff34BE7C);
+const rightArrowColor = Color(0xffC9252F);
+const drawerHeaderGradientLeft = Color(0xff074278);
+const drawerHeaderGradientRight = Color(0xff2F78CF);
+const greyGradientLeft = Color(0xFF7B7B7B);
+const greyGradientRight = Color(0xFFACACAC);
+const greenGradientLeft = Color(0xFF16881B);
+const greenGradientRight = Color.fromARGB(255, 67, 221, 75);
+const orangeGradientLeft = Color(0xFFDB8300);
+const orangeGradientRight = Color(0xFFF5C413);
+const redGradientLeft = Color(0xFFC01713);
+const redGradientRight = Color(0xFFEE4C48);
+const greyShade700 = Color.fromRGBO(97, 97, 97, 1);
